@@ -1,2 +1,1 @@
-# Jarvis
-Jarvis is a robot arm that can talk to you with the help of AI
+Jarvis is my Desk Assistant made for helping me, both physically and mentally (means that he can talk about anything with me). He uses camera vision, speech recognition a local AI - Gemma3. My goal was to build my own little Jarvis, like Iron Man's. I couldn't finish it because it took much longer than I thought and sometimes I didn't even want to finish it because all the problem really sucked. I still hope that you can use this and maybe correct some of it.
